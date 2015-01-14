@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="jvfdxxnl;" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/jvfdxxnl;.png" trans="000000" width="513" height="481"/>
+ </tileset>
+ <tileset firstgid="241" name="tilea5 (1)" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/tilea5 (1).png" trans="000000" width="256" height="512"/>
+ </tileset>
+ <tileset firstgid="369" name="Outside_B_snow" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/Outside_B_snow.png" trans="000000" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="625" name="worldbsnow" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/worldbsnow.png" trans="000000" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="881" name="-Charas-ornements-du-Nord-1" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/-Charas-ornements-du-Nord-1.png" trans="000000" width="192" height="256"/>
+ </tileset>
+ <layer name="Ground" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMA6DOY/1rqYfdkNBLqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr4OOP1NeQ==
+  </data>
+ </layer>
+ <layer name="Trees/Objects" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztm+mNE0EQhb2OZhOCDCAHyABCIAUkAtgfm8CG4GTwSLQonup4VV3DctQnWWt7+nxTR3eP93IZhmEYhmEYhmEYhmEYhmEYhmH4v/n68PM11BgN82iajYY5pIb4Gn7F00VeGw19LG3Gn3NY/orfvbZf/y33D8fpxcaqnkwMqbb/5nq5vL3mxtMN49tVLbN1mTalZu/uf99f7evedx4f7mP4WLQTZq7o50y7TL8aOHdNM4l2PaqDfLqP5fOP8TyKeo9JW2dspeKfTN2lW3buEU+vFM8zfo7XvPIWkW5olx1+K1m29g3GKD9n7DHSx8vdVt0Iz1ZQ3/XZi48VPZ/Bj5+JcUdEenTkCYSdu2e3mVjwkhzfbmz0bKuSuzN5w7LTHf+9gZ9qORl9O/N9NS8wMfKgQ6/O3CNz8sLyZfT5qPwBs6bxbDXrzxrZnBNh2ZHlq1kfXkTaWbkk488IowXaKWuPK/Yte4liYaRbdN3LzdHa29PPW6N4Wuzu624P+mepg2abUmdPM+0am3Mt3ZgYyGrWsW458DRYtil1RN0RWTa7R8zmlSxd6xYNb80crQeP8traUctHFmycy+iXtamd3CHnzawLrbzjweYN67qHNvds/MvaoGVXuC7U3mf2KNm9GhP3kOzcu9Z91fWIVt9qy/NNz/52fPk1zk1x/vIz5gJG90q+ZeoycVLaF6Pl2Xrv5IJIA/TT7nU0cwbdfYZYxVsPy+vr9UWJgZ5ukT+z2v4pejF4+RXLsXsUq27HOLvq77Yn22Hnn7W7Xd/OjJGt3zmeaM0X9Z3JPbuvKpV4Xy3Dzl3TmRm/1wdTb5dIgzPuu9WP/PuvUPWFTHlNxzOpPAuvkJ1/VWfv8xlk1rYVsrZT0c2qG8Gel+F5x+6+tUol3rJ6VGzNOy9jzzu8599ZXk7IRet9B5W5RXVQ2+zzb2n32jl+Biv2aeV27U3CnKOvcl35YvXZGT8ZXz1j3YV4elp+3hkTd3/fVi2TnYMsj7FHe4beqdFqS/a73st79KLcKw02v7KsuLX6jO6p9myLsYPdmC/71caA31ljyq49Drz1B8Y6Ns7Ie8zUiZ4pdqONKbvWW1Sf1x1UzsS1epKMf8t2qmNZZLXLtG+VreY9rFf9valsRxtLVtPK/iGLNgYtfmk2duae4xgD9qlpimPFMeHevxIHF+wa4KbYUtU2q/57jMH6Tbk1VgT3G5p+lk3jGvfA06DDlnbX0Zl7hH1pfTN7j921urXWiPRc45WxrnPfgOOS+hxjw76sHLz+7sQ/XPdJmLWGpjGjVdamZT+4763cGzwriPYY7G9DLD+zvrd+f2JRjQU3JWcg2nVmP9KZf639KhOvJbtrNGZs2K52PfKhyvmn99uRHaRmkU/t3vOd+1M9c+74XxMkuv/amUMlZmP8ie4P+/sqKw+zZ9BaWaznXctwE2PdbUvC2BJjc0x9rS2r/Uy/1lyi+XZqFJXPUPFxTYdMXzt9V/kdfWBfwzDYfAdc/rW1
+  </data>
+ </layer>
+ <layer name="Water/LargerSnow" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztmktOwzAQht1m06NxHdjwvEADEux4SAX2XcIBcSUM7mhsj8d27cL/SZaTtH7Ml3GbRDHGmJPFcZUdH0tjPpf9ap/ePjT+arKejJknffuasa0ipZW/7fexU+vgbNo/Rt3433Hc2/0H79iuLVdK/cXccI4kzjSuNyQWF9u5dXAx7cdL3bjv+J44b7R/rT8/nlwfmnMiaRPyF9qPueByjOaoxh8XFxefJCe17ST+YrHlrEEfLkdz/K0i26WFy+vY+eI8On9bUjsu7f7VQl/nos0piatQPuW69ts6uNzYObi25aagznUY8ifJk5J1GPKc6sOH+lvb7Vtb7grq2e9PcG2jyT+Jk1QJuUv1R2mZf/T/W+JPGlOOV6k/yfng/P1c71XOPwk5MdcqnHfqivPK0fP3r4c7ic9YPsf8tcq/1LXPPIDDVFlH/FGH80Jfc6T89XaTU1L+akHvU/4ioXt97b0H7Zvb5tBcd49C7H5WW2jfPfOv9dja/iV5OoI/N36POaSeSaXW9yj+3Bxaeqy1Zmmffj0KtWOUxJdqH/r9G8md1E3O59IxpZ/Tvg/pjxs75UByLDZOyo1krnS+ftuW/jTrjZundu1K56EZY7S16xPLU3+/1hgl52R0cuM6FCPNBQAAjp3HyZingndt/jsb6+4V/prxbN2+wK+aN+vuHf4AAODg4PqqDFxfAQAAAACAYwHPrsrAsysAAAAAAAAAAAAAAAAAAAAAAADgF7yHUAbeQwAAAADifAFY874c
+  </data>
+ </layer>
+ <layer name="Border" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="3"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt3DFqAzEQQFHn2I5zASc5dNQY3KQwv/AMvAdiWrH6oGWLvX1cLl9nfZ413fXs8TZgv8/7+Dnr96zvBc/vPmS/z/uYcJ6vuA846639TbG5vwn01+iv2dzfdcBZb+3P+1/j/a/RX6O/ZnJ/j3tt+pza37Y5rb9tc1p/j+8aW+Y7bb1/p9h6/06hv0Z/jf4a/TX6a/TX6K/RX6O/Rn+N/hr9Nfpr9Nfor9Ffo79Gf43+Gv01+mv01+iv0V+jv0Z/jf4a/TX6a/TX6K/RX6O/Rn+N/hr9Nfpr9Nfor9Ffo79Gf43+Gv01+mv01+iv0V+jv0Z/jf4a/TX6a/TX6K/RX6O/Rn+N/pr/+nv3vxE3ze3//5sy/wCLVK2n
+  </data>
+ </layer>
+ <objectgroup name="WaterSources" width="80" height="80">
+  <object x="32" y="0" width="1408" height="480">
+   <properties>
+    <property name="size" value="660"/>
+    <property name="type" value="water"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Trees" width="80" height="80">
+  <object x="0" y="0" width="96" height="544">
+   <properties>
+    <property name="size" value="51"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="96" y="416" width="1408" height="128">
+   <properties>
+    <property name="size" value="176"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="1376" y="224" width="128" height="192">
+   <properties>
+    <property name="size" value="24"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="1376" y="0" width="128" height="96">
+   <properties>
+    <property name="size" value="12"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="1504" y="0" width="1056" height="32">
+   <properties>
+    <property name="size" value="33"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="704" y="2496" width="1760" height="64">
+   <properties>
+    <property name="size" value="110"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="0" y="2496" width="704" height="96">
+   <properties>
+    <property name="size" value="66"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="0" y="544" width="96" height="832"/>
+  <object x="0" y="1376" width="96" height="1120">
+   <properties>
+    <property name="size" value="105"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="2464" y="32" width="96" height="1120">
+   <properties>
+    <property name="size" value="105"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="2464" y="1152" width="96" height="1152"/>
+  <object x="2464" y="2304" width="96" height="256">
+   <properties>
+    <property name="size" value="24"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="128" y="928" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="0" y="0" width="96" height="544">
+   <properties>
+    <property name="size" value="51"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="224" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="352" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="192" y="1184" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="160" y="1344" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="1312" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="1216" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="128" y="1216" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="160" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="448" y="1120" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="288" y="1120" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="352" y="1344" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="416" y="1248" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="480" y="1280" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="576" y="1248" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="512" y="1440" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="640" y="1344" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="640" y="1120" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="832" y="1120" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="832" y="1280" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="928" y="1280" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1696" y="960" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1888" y="896" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1952" y="992" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1824" y="1056" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1984" y="864" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1760" y="928" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2176" y="1216" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2080" y="1248" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2016" y="1440" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1920" y="1408" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1952" y="1312" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1952" y="1184" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1792" y="1344" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1856" y="1216" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1728" y="1216" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1696" y="1088" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2240" y="1088" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2368" y="1152" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2304" y="1248" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2336" y="1312" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2304" y="1440" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2176" y="1472" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2176" y="1344" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2304" y="896" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2368" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2240" y="992" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2080" y="992" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2144" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2112" y="1120" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2144" y="896" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1664" y="192" width="576" height="256">
+   <properties>
+    <property name="size" value="144"/>
+    <property name="type" value="trees"/>
+   </properties>
+  </object>
+  <object x="2208" y="2144" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1984" y="1952" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2144" y="2016" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1824" y="1760" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2144" y="1856" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2272" y="1696" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1696" y="2016" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1696" y="2240" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1984" y="2304" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1920" y="2080" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2080" y="2272" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2048" y="2176" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="160" y="2144" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1312" y="1984" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1440" y="2112" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1504" y="2240" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1568" y="1952" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1216" y="1984" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1600" y="1824" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1440" y="1952" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1216" y="2304" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1376" y="2208" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1280" y="2112" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2272" y="1792" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2272" y="1952" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2240" y="2336" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2048" y="1760" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2016" y="1824" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1728" y="1760" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1824" y="1920" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1888" y="2208" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1760" y="2080" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1600" y="2176" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2400" y="1792" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="2048" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="288" y="2112" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="608" y="1984" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="416" y="2080" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="192" y="2272" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="288" y="2336" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="384" y="2208" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="448" y="2272" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="512" y="2176" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="640" y="2176" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="160" y="2048" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="224" y="1856" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="384" y="1920" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1088" y="2144" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2208" y="128" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1632" y="64" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1920" y="64" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="320" y="1824" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="224" y="1952" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="480" y="1952" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="320" y="1952" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="2112" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="576" y="2112" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="160" y="2240" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="2208" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="608" y="2272" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="RocksAndObjects" width="80" height="80">
+  <object x="384" y="960" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="snow"/>
+   </properties>
+  </object>
+  <object x="640" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="skeleton"/>
+   </properties>
+  </object>
+  <object x="608" y="1504" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="skeleton"/>
+   </properties>
+  </object>
+  <object x="672" y="2336" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="skeleton"/>
+   </properties>
+  </object>
+  <object x="1216" y="1504" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="sign"/>
+   </properties>
+  </object>
+  <object x="1664" y="1184" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="snow"/>
+   </properties>
+  </object>
+  <object x="1792" y="64" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="log"/>
+   </properties>
+  </object>
+  <object x="2304" y="256" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="log"/>
+   </properties>
+  </object>
+  <object x="2080" y="32" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="log"/>
+   </properties>
+  </object>
+  <object x="224" y="960" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="320" y="1248" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="192" y="1280" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="256" y="1120" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="288" y="1056" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="160" y="1024" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="320" y="960" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="768" y="1312" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="736" y="1312" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="800" y="1408" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="704" y="1408" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="640" y="1440" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="544" y="1376" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="448" y="1376" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="416" y="1440" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="192" y="1408" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="288" y="1440" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="512" y="1216" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="544" y="1088" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="448" y="1024" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="384" y="1184" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="352" y="1312" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="896" y="1248" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="768" y="1216" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="704" y="1152" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="576" y="1184" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="672" y="1248" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="384" y="1856" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="352" y="2304" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="320" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="480" y="2208" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="384" y="2144" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="704" y="2112" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="544" y="2080" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="576" y="1952" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="384" y="2048" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="160" y="1952" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="160" y="1888" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="704" y="2272" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="544" y="2368" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="416" y="2336" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="256" y="2368" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="160" y="2368" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1344" y="1920" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1952" y="1792" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1824" y="2016" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1888" y="1984" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1728" y="1920" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2336" y="1888" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2272" y="1888" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2112" y="1920" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2112" y="1856" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2176" y="1760" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1792" y="1856" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1920" y="1888" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1792" y="2272" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1408" y="2304" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1280" y="2304" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1120" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1184" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1280" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1440" y="2208" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1376" y="2144" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1216" y="2144" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1152" y="2048" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1504" y="1952" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1504" y="2048" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1600" y="2080" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1664" y="2144" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1792" y="2176" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2368" y="2016" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2368" y="2112" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2080" y="2080" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2336" y="2208" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2272" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2208" y="2272" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2144" y="2336" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1984" y="2240" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1888" y="2336" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1632" y="2272" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1728" y="1024" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="2400" y="960" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="2240" y="1184" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="2048" y="1088" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="1920" y="1120" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="1856" y="2112" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="1952" y="1920" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="2112" y="2176" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+  <object x="2272" y="2048" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="hole"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

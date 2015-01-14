@@ -1,0 +1,2615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="80" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="dafdfdsfdsfsdd" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/dafdfdsfdsfsdd.png" trans="000000" width="663" height="561"/>
+ </tileset>
+ <tileset firstgid="341" name="jvfdxxnl;" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/jvfdxxnl;.png" trans="000000" width="513" height="481"/>
+ </tileset>
+ <tileset firstgid="581" name="SDSDFJGKL;L" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/SDSDFJGKL;L.png" trans="000000" width="576" height="561"/>
+ </tileset>
+ <tileset firstgid="887" name="sfsadfsfsdfsd" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/sfsadfsfsdfsd.png" trans="000000" width="520" height="397"/>
+ </tileset>
+ <tileset firstgid="1079" name="tilea2" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/tilea2.png" trans="000000" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="1271" name="tilea5 (1)" tilewidth="32" tileheight="32">
+  <image source="../../Pictures/Tilesets/tilea5 (1).png" trans="000000" width="256" height="512"/>
+ </tileset>
+ <layer name="Ground" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJgDAQRNFE0Frsv5iUYAmeNSfPJuKy8AbeffitltJu+8pbrT6iv2Sk3zf9on9kpZ9++uWln37R9Jtrp59+kf0O/Yb1dqd+w3q7bYn/kZV2APC/vugPAAAAAAAAAAAAAAAAAAAAAAAA2VxDZnkS
+  </data>
+ </layer>
+ <layer name="Border and rocks and Water" width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="1"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt2EFuwjAUhGGy4DY9EDeAG8AN4HQse57GUkeyrBg5mec8vzCfZNFN1eTXRBF9T6fTr86m8/4/3tcR9aif+qlf3KN+6qd+cY/6qZ/6xT3qx/dLrvPnbeI/ve+n16ndL9znnx8T/+l9n7261e4XnvPPr4n/PNoO0al2vwmeYQtH2SF2kHdagveHlaPssHw+9+oHUXeYtOyud7/IO2zZXe9+EG2Ht8bd7dUv2g7XbC/p3Q+i7HDN9pK9+kXZYf6dosVe/WD0HY76/ILlDuEbnt+SxQ7Bolv5/4BWXv0sdggW/Vq/b5S8+gGzQ7DYXev3jZJ3P1y3V7+tuwPvfoD7WPM8g8fuYJR+uI81zzN47A5G6Qdr3ivgsTsYrR+07BA8dgej9mvZIXjsDkbtB592CLVmeXfr3cHo/T7tEJZ2Vr7PrXcHo/eDcofX7JofC93K93kvUfqVO7xn1/xa6Fb+Xi9R+kHeKde7U020fl6daqL1G436cdSPo34c9eOoH0f9OOrHUT+O+nHUj6N+HPXjqB9H/Tjqx1E/jvpx1I+jfhz146gfR/046sdRP85e/S7n/n/Dg/bHUT+O+nHUj+PZ7+dsczx59MO7WP046sdRP476cdSPo34c9eMcqZ/O9vMHA2P6cw==
+  </data>
+ </layer>
+ <layer name="More rocks " width="80" height="80">
+  <properties>
+   <property name="layerDepth" value="2"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztXEuy2zYQFOWKz5Xb2Dd4uoHexjlDkovYJ0hVvPARuHCy5trEs+a5X2tmMAQBkpLYVSyS4A9o9vxAlQ6Hw2HoypencTmPyzOsU9sHpX1r68/Hw+HL8df+x3E50TknOPZMYxe8P5Yv5wtXCU+X9Rk4fH3Gu5/rf8drvh4P1fFPZx+TZ/M52BfkjvdlOyHty9ijkPek4QPpLa1Tf4XD3JhwX2sTePyU9BvRE3cJzJ1s58BjSPA0I/YrXKHuUJsC5EF7Vg14Wmct9hdbFO7S8Y+wf6Lt2v0WjnCNumM73hqG7toWT8Dtc3fNaQ3gO0DtJWh23MOz0a5aadDrr6BXuOuBJ4wRp4YaOCv2ipydLzYi+2xXOLal+EwYFE4G0N57iC1o37gWRH2tBdHbk8FZ6stAOmwFHktOe3Ic26ZqrzSvkL4ib6/v6GhzOIfHXCyOjIW1J3FEtl9yFMXv1bYP6atluxaHmhZLcpQSaH5vmKE9D1P4jtqu5J+a/yl57pR7oM7kHOSTt9nvtQRq0LNd6U9qQ1tewjdq+QrarbatoRWfTxf/963Lcyh9l7ahMY9WvoJ2K+9U43kJnCk+ZHUItox9rw28L8ZbaWP/twZ3Ao4PkTisaaBUhxiH5D7MCbcN3bUvrI1ojoia6rtfvi4Sh3E8eMzikv1nT9wNCndyf4wTqMOpYF5kn9sxr4pwOcV2mR8+xnr9/befC/tPPE848nxeAnJZoj3ON2Xfy0Oj+XYkhmixmY+xXoU/9p94HnKh+TzZj3LnxVxNc16bdq35XMeWI/Udjk/OE/74HDyPwT7vKheka2ROMpKraJrz2rRrPUT8X7RGTucxfwjtfTJ3iRPm8uo576ZxmNOZ1+5Bq4d7sjfrHLw+Cn6fVvxlH6j1m/nz+pLTGbcXcWnoTvOHU+ZrrHFpukvAXFDLWZi7qAYtaFyVztlo9a/mD3M1sgcv7+MaN6K9ufzV/m6G9e/LvpMPRjXYd295Q78gx/Hbo1WnWdwtObcbhZcPoq0xhxg/mDPO+6x80KrT0NdtmT+1LnFqFdSX8Mc1BucuVg3i1WkWbzn+Po3LH1PHn1lC9wnkg2jfmP9ZNUaCVYN4cxTeOHLj+Wtc/o6M1+GpVOuRfBD1hfWHoO+ufaBWu2nxmMenjWWODWvfyGr7WK0e1rSZwPkz+z+tfovM63mc1eSvht2az8rUKuz/2E5fFyX2TqlxLdsqGpPiB1rGI2+uhv1fjpeS+WTPNxWNR7m2dTy35mrY/1k+UPancJez11r8tYzrb55rzClo/o994Bu7Doy7ltYQ1m9VpvjVaFy3kMv/rBxwqs22ANZtkRjcCl7+Z+WAa3PHWJO/l2cZ+V9tnhYZy8q1oTd/egvI1R+tUcpfLpYtZksN8+cISvnLxbLa/bfeV83a955hvS+r7t75i2HX3Y4d7TGn9twxv/bcUY6x9v3z87is3Y8SrGF3/I3868jdF4O/rfuFNewOfi/0ojtPf/fkF2rnXqI71N8t23IOc/mzfn+K8Gz50WH9/jR47SZ1uXY9hLx4/nALutTmfqxvP17dXoqcvWr+cEuIzp21mrNU7PdKZ1u1Uw9rzfFqOtuq9jys8X3hFnUmqPLbkcJ7CG+3nPNFxp7TZCl/92CzNfh7ZHjfYyyudh5t3DN/c//v49HR6n/ELCzxvrY+pzcHS7yvyJxe7ncHt+hLlkSEr6X5rGGbS/njqXqL8DfXb9SwzaX8cQv+7ulbACPi7zw+d3/4FlH/p23vmM6fhe+jr/lv5vK/46/WzMW8WFSLvxq69O6xpk/1YlGJD7TuMxe36Btq5ctb46+Vvc+NvwmaP9gaf1vOobz/YZ4DvMejzefU5m/p+Zy1sTX7nYItaP2W+Xs0rbfEDwZjuTI=
+  </data>
+ </layer>
+ <objectgroup name="Border" width="80" height="80">
+  <object x="0" y="0" width="32" height="2560">
+   <properties>
+    <property name="size" value="80"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="32" y="2528" width="2528" height="32">
+   <properties>
+    <property name="size" value="79"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2528" y="0" width="32" height="2528">
+   <properties>
+    <property name="size" value="79"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="32" y="0" width="512" height="64">
+   <properties>
+    <property name="size" value="32"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="0" width="1888" height="32">
+   <properties>
+    <property name="size" value="59"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2432" y="0" width="96" height="64">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Mountain" width="80" height="80">
+  <object x="32" y="416" width="576" height="64">
+   <properties>
+    <property name="size" value="36"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="512" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="896" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="864" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="832" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="800" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="768" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="736" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="704" y="320" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="672" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="640" y="224" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="608" y="160" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="768" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="736" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="704" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="672" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="640" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="608" y="320" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="576" y="256" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="544" y="160" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="608" y="32" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="576" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="544" y="64" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="864" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="832" y="320" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="800" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="768" y="256" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="736" y="224" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="704" y="192" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="672" y="128" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="640" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="704" y="32" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="928" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="896" y="256" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="864" y="224" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="832" y="192" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="800" y="160" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="768" y="128" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="736" y="64" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="928" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="896" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1184" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1152" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1120" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1088" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1056" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1024" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="992" y="320" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="960" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1056" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1024" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="992" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="960" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="928" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="992" y="704" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="960" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="928" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="896" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="864" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="832" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="800" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1024" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="992" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="960" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1056" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1440" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1408" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1376" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1344" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1312" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1280" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1248" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1216" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1216" y="928" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1184" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1152" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1120" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1088" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1056" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1024" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1280" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1248" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1216" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1184" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1088" y="704" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1120" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1152" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1216" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1184" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1152" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1120" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1088" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1440" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1408" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1376" y="928" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1344" y="928" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1312" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1248" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1440" y="1184" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1440" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1408" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1376" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1344" y="1056" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1312" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1280" y="992" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1248" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1376" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1344" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1312" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1280" y="704" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1440" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1408" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1536" y="1152" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1856" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1824" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1792" y="704" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1728" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1696" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1664" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1632" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1600" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1568" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1536" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1984" y="256" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1952" y="320" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1920" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1888" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1856" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1824" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1792" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1728" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1696" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1664" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1632" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1600" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1568" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1536" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1792" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="1056" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1728" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1696" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1664" y="1024" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1632" y="1056" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1600" y="1056" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1568" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1536" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2112" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2112" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2080" y="512" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2048" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2016" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1984" y="672" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1952" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1920" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1888" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1856" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1824" y="800" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1792" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1728" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1696" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1664" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1632" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1600" y="928" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1568" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1536" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2112" y="640" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2080" y="704" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2048" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2016" y="768" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1984" y="832" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1952" y="864" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1920" y="896" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1888" y="928" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1856" y="960" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1824" y="992" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="736" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2176" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2176" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2208" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2240" y="384" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2336" y="224" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2304" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2272" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="256" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2112" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2080" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2048" y="416" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2016" y="448" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1984" y="480" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1952" y="544" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1920" y="576" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1888" y="608" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2400" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2368" y="160" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2272" y="32" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2240" y="64" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2208" y="128" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2176" y="192" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2144" y="32" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2112" y="64" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2080" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2048" y="128" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2016" y="192" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2176" y="352" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2208" y="288" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2240" y="224" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2272" y="160" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2304" y="96" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2336" y="64" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2368" y="32" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2336" y="416" width="192" height="64">
+   <properties>
+    <property name="size" value="12"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2272" y="448" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1952" y="960" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2016" y="896" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2080" y="832" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2208" y="512" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2304" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="2176" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1376" y="1216" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1568" y="1184" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1632" y="1152" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1696" y="1120" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1760" y="1152" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1824" y="1088" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1888" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="800" y="672" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="864" y="736" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="928" y="800" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="992" y="864" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1056" y="928" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1120" y="960" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1184" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1248" y="1088" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="1312" y="1152" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="608" y="480" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="672" y="544" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+  <object x="736" y="608" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="mountain"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Water" width="80" height="80">
+  <object x="960" y="2240" width="576" height="288">
+   <properties>
+    <property name="size" value="162"/>
+    <property name="type" value="water"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="RocksAndObjects" width="80" height="80">
+  <object x="192" y="640" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="384" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="288" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="224" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="352" y="480" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="224" y="512" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="96" y="640" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="128" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="32" y="512" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="896" y="0" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="928" y="160" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="160" y="512" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="64" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="320" y="704" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="384" y="640" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="480" y="672" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="576" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="448" y="512" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="256" y="1056" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="224" y="1824" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="64" y="1824" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="128" y="1792" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="512" y="1632" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="320" y="1728" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="352" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="288" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="32" y="1696" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="160" y="1728" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="192" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="320" y="1568" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="32" y="1600" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="160" y="1600" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="224" y="1536" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="160" y="1536" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="96" y="1504" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="224" y="1472" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="960" y="1952" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="800" y="2368" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="160" y="2272" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1568" y="2080" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2464" y="2464" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2112" y="2080" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1856" y="1984" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1600" y="2400" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1696" y="224" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1696" y="608" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2016" y="0" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1760" y="64" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="96" y="2016" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1056" y="2112" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1728" y="2240" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2112" y="2336" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1728" y="1472" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="2304" y="1376" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1920" y="1184" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="448" y="1504" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="256" y="1248" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="800" y="1024" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="96" y="832" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="tree"/>
+   </properties>
+  </object>
+  <object x="1248" y="768" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1152" y="800" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="896" y="576" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="992" y="800" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1312" y="640" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1184" y="544" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="960" y="352" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="736" y="160" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1600" y="672" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1856" y="1024" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1760" y="928" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1856" y="896" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1920" y="672" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1984" y="608" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2048" y="672" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1856" y="544" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1952" y="416" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2080" y="224" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2048" y="320" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2176" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1696" y="448" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="992" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1088" y="64" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1120" y="64" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1024" y="160" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1056" y="192" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1248" y="64" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1344" y="64" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1152" y="192" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1120" y="288" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1216" y="320" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1440" y="256" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1600" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1696" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1824" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1888" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1984" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1920" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1856" y="160" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1824" y="224" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="1760" y="320" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="960" y="64" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="832" y="32" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="896" y="96" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2400" y="544" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2432" y="640" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2176" y="832" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2144" y="1024" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2176" y="928" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2208" y="864" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2432" y="992" width="32" height="32">
+   <properties>
+    <property name="size" value="1"/>
+    <property name="type" value="rock"/>
+   </properties>
+  </object>
+  <object x="2272" y="576" width="96" height="224">
+   <properties>
+    <property name="size" value="21"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2368" y="608" width="32" height="192">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="480" y="832" width="288" height="32">
+   <properties>
+    <property name="size" value="9"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="640" y="864" width="96" height="32">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="416" y="864" width="160" height="32">
+   <properties>
+    <property name="size" value="5"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="480" y="896" width="192" height="32">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="320" y="896" width="32" height="160">
+   <properties>
+    <property name="size" value="5"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="416" y="896" width="32" height="96">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="448" y="928" width="256" height="32">
+   <properties>
+    <property name="size" value="8"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="480" y="960" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="352" y="960" width="32" height="192">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="1024" width="32" height="192">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="576" y="1056" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="480" y="1152" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="448" y="1024" width="32" height="320">
+   <properties>
+    <property name="size" value="10"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="512" y="1088" width="32" height="192">
+   <properties>
+    <property name="size" value="6"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="608" y="1088" width="32" height="64">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="1216" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="1312" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="608" y="1216" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="640" y="1184" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="672" y="1184" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="768" y="2112" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="672" y="2208" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="672" y="2080" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="256" y="2176" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="2368" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="2304" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="2048" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="544" y="2176" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="256" y="2368" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="384" y="2048" width="160" height="352">
+   <properties>
+    <property name="size" value="55"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2080" y="1536" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1984" y="1824" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1920" y="1824" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2176" y="1792" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1824" y="1728" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1824" y="1888" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1888" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2048" y="1888" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1952" y="1696" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1760" y="1728" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1760" y="1888" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1632" y="1856" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1632" y="1792" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1728" y="1632" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1568" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="1632" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2080" y="1664" width="64" height="64">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2240" y="672" width="32" height="96">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2208" y="736" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2240" y="800" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2240" y="832" width="128" height="32">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2400" y="672" width="32" height="320">
+   <properties>
+    <property name="size" value="10"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2432" y="864" width="32" height="128">
+   <properties>
+    <property name="size" value="4"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2272" y="864" width="96" height="32">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2176" y="896" width="96" height="32">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2240" y="960" width="96" height="32">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2176" y="1184" width="96" height="32">
+   <properties>
+    <property name="size" value="3"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2304" y="896" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2272" y="992" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2272" y="928" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2176" y="992" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2240" y="1024" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2208" y="1120" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+  <object x="2176" y="1216" width="64" height="32">
+   <properties>
+    <property name="size" value="2"/>
+    <property name="type" value="rocks"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
